@@ -17,8 +17,6 @@ Everything here is **Natiiv-authored** and built for our canonical stack: **Next
 | [`infigroup-performance`](skills/infigroup-performance/) | Next.js perf, Core Web Vitals, SSG/ISR, accessibility (WCAG AA) |
 | [`infigroup-i18n`](skills/infigroup-i18n/) | Translation, locale switching, next-intl `[locale]` routing |
 | [`infigroup-seo`](skills/infigroup-seo/) | Sitemaps, robots, JSON-LD, schema.org, GEO |
-| [`context`](skills/context/) | Load project state from the Obsidian vault at session start |
-| [`handoff`](skills/handoff/) | Persist session state to Obsidian memory at session end |
 
 ## Agents
 
